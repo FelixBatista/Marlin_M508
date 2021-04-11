@@ -1,6 +1,6 @@
 # Marlin for Alunar M508
 
-<img align="top" width=175 src="https://photos.app.goo.gl/BcZdNrKS4TKaP81j8" />
+<img align="top" width=175 src="https://lh3.googleusercontent.com/pw/ACtC-3d-ipcOpgP0eE0z4hCgdk_3OokFuQrAuKfl90VnnkULmgq1SJJR2cc9lmB6vENLhgk2lisxmtVS_Lp7KanSBhvmVnZQNiqqTQ2JHRDxZNUS0xphDuNlJkPc1aEw-kQidvZO8OWC2c2IdTQDIeZRCMmETg=w428-h903-no?authuser=0" />
 
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
 
